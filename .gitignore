@@ -1,0 +1,21 @@
+# Credenciales
+.env
+*.env
+.env.*
+!.env.example
+
+# Documentación interna / instrucciones de agentes
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.log
+

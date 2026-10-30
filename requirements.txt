@@ -1,0 +1,5 @@
+# Dependencias del proyecto Biblioteca Virtual Eclesiástica
+pymongo>=4.10.0
+python-dotenv>=1.0.0
+certifi>=2024.0.0
+
